@@ -1,5 +1,4 @@
-#文档#
-[最小物联网系统文档](https://github.com/gmszone/iot-doc)
+
 
 #Minimum Internet of Things#
 A Minimum IOT with arduino and raspberry pi.
@@ -43,58 +42,3 @@ A Minimum IOT with arduino and raspberry pi.
         sudo python get.py
 
  4. 打开 localhost/athome/create to 创建一个数据。打开 /athome/1/edit 编辑状态
-
- 5. 作为测试，你可以访问[b.phodal.com][1]
-
-##如何在Android手机上测试
-
-![](https://raw.github.com/gmszone/iot/master/doc/images/android.png)
-
-  1. 下载安装 [Stay at Home][13]
-
-##中文文档
-
-[一个最小的物联网系统设计方案及源码][2]
-
-[最小物联网系统（一）——系统组成][4]
-
-[最小物联网系统（二）——RESTful][5]
-
-[最小物联网系统（三）——创建RESTful][6]
-
-[最小物联网系统（四）——详解Laravel的RESTful][7]
-
-[最小物联网系统（五）——Laravel RESTful模板化][8]
-
-[最小物联网系统（六）——Ajax打造可视化][9]
-
-[最小物联网系统（七）——与服务器通讯][10]
-
-[最小物联网系统（八）——与单片机通讯][11]
-
-[最小物联网系统（九）——Android客户端][12]
-
-[最小物联网系统设计——给Laravel添加测试][15]
-
-[最小物联网系统——Dashboard][16]
-
-## Liscense
-
-© 2014 Phodal Huang. This code is distributed under the MIT license.
-
-[1]:http://b.phodal.com
-[2]:http://www.phodal.com/blog/bare-minimum-iot
-[3]:https://github.com/gmszone/iot/wiki
-[4]:http://www.phodal.com/blog/bare-minimum-iot-system-structure/
-[5]:http://www.phodal.com/blog/bare-minimum-iot-system-restful/
-[6]:http://www.phodal.com/blog/bare-minimum-iot-system-create-restful/
-[7]:http://www.phodal.com/blog/bare-minimum-iot-system-about-restful/
-[8]:http://www.phodal.com/blog/bare-minimum-iot-system-restful-template/
-[9]:http://www.phodal.com/blog/bare-minimum-iot-system-ajax/
-[10]:http://www.phodal.com/blog/bare-minimum-iot-system-date-commucation/
-[11]:http://www.phodal.com/blog/bare-minimum-iot-system-mcu-commucation/
-[12]:http://www.phodal.com/blog/bare-minimum-iot-system-android-example/
-[13]:https://github.com/gmszone/Home-Anywhere/raw/master/app/build/apk/app-debug-unaligned.apk
-[14]:http://bbs.phodal.com
-[15]:http://www.phodal.com/blog/bare-minimum-iot-system-add-test-for-laravel/
-[16]:http://www.phodal.com/blog/bare-minimum-iot-system-dashboard-framework-dashing/
