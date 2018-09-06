@@ -52,10 +52,6 @@ A Minimum IOT with arduino and raspberry pi.
 
   1. 下载安装 [Stay at Home][13]
 
-##交流
-
-QQ群：348100589
-
 ##中文文档
 
 [一个最小的物联网系统设计方案及源码][2]
